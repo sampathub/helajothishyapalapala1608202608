@@ -4960,7 +4960,7 @@ export default function App() {
                                     className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-emerald-600 hover:bg-emerald-500 text-white rounded-lg text-xs font-bold transition-all shadow-md"
                                   >
                                     <MessageCircle className="w-3.5 h-3.5" />
-                                    WhatsApp Admin (0716242455)
+                                    WhatsApp Admin (0768019890)
                                   </a>
                                 </div>
                               </div>
