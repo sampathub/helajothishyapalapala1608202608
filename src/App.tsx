@@ -5593,7 +5593,7 @@ export default function App() {
                 <textarea
                   value={userComment}
                   onChange={(e) => setUserComment(e.target.value)}
-                  placeholder={lang === 'sinhala' ? "වාර්තාව පිළිබඳ ඔබගේ අදහස (අත්‍යවශ්‍ය නොවේ)..." : "Write your comment or feedback (optional)..."}
+                  placeholder={lang === 'sinhala' ? "මෙම සෙවාව හා එහි හොද නරක පිළිබඳ ඔබගේ අදහස ලබාදීමට කාරුනික වන්න.." : "Write your comment or feedback (optional)..."}
                   className="w-full bg-slate-950 border border-slate-800 focus:border-amber-500 rounded-xl p-3 text-xs text-slate-200 focus:outline-none font-sans"
                   rows={2}
                 />
